@@ -75,10 +75,9 @@ You can run `pip install -r requirements.txt` to deploy the environment.
 ### Citation / Reference
 If you find this work useful in your research, please cite:
 ```bibtex
-@inproceedings{otibmfnd,
+@article{zhu2027otibmfnd,
   title={OTIBMFND: OPTIMAL TRANSPORT AND INFORMATION BOTTLENECK FOR MULTIMODAL FAKE NEWS DETECTION},
-  author={...},
-  booktitle={...},
-  year={2024}
+  author={Anonymous Authors},
+  journal={Under Review},
+  year={2027}
 }
-```
